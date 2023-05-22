@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, AI**
 
-- 📫 How to reach me **alexmilenkov07@gmail.com**
+- 📫 How to reach me **milenkovalex2@gmail.com**
 
 - ☕ Fun fact **I love coffee**
 
