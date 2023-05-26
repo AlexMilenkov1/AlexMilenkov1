@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex Milenkov</h1>
-<h3 align="center">Python Zen: Embrace Simplicity, Efficiency, and Elegance in Your Code Journey</h3>
+<h3 align="center">Python Zen: Embrace Simplicity, Efficiency, and Elegance in Your Code </h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif">
 
