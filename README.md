@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **milenkovalex2@gmail.com**
 
-- ☕ Fun fact **I love coffee**
+- 💪🏻 Fun fact **I love lifitng weights**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
