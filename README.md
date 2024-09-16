@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **at SotfUni**
 
-- 💬 Ask me about **Python, HTML, CSS, MY SQL**
+- 💬 Ask me about **Python, HTML, CSS, POSTGRES, JAVASCRIPT**
 
 - 📫 How to reach me **milenkovalex2@gmail.com**
 
