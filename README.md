@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, HTML, CSS, POSTGRES, JAVASCRIPT, DJANGO**
 
-- 📫 How to reach me **milenkovalex2@gmail.com**
+- 📫 How to reach me **milenkovytb@gmail.com**
 
 - 💪🏻 Fun fact **I love lifitng weights**
 
