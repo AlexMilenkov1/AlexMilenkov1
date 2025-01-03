@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **at SotfUni**
 
-- 💬 Ask me about **Python, HTML, CSS, POSTGRES, JAVASCRIPT, DJANGO**
+- 💬 Ask me about **Python, HTML, CSS, POSTGRES, JAVASCRIPT, DJANGO, DOCKER**
 
 - 📫 How to reach me **milenkovytb@gmail.com**
 
