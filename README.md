@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Alex Milenkov</h1>
 <h3 align="center">Python Zen: Embrace Simplicity, Efficiency, and Elegance in Your Code </h3>
+<p align="center">
+I'm a passionate Python developer currently honing my skills in web development and DevOps. 
+I love building efficient, scalable applications and always strive for clean and maintainable code. 
+When I'm not coding, you can find me lifting weights or exploring the latest tech trends!
+</p>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif">
 
