@@ -38,7 +38,7 @@ When I'm not coding, you can find me lifting weights or exploring the latest tec
 <h3 align="center">Let's Connect!</h3>
 <p align="center">
   <a href="mailto:milenkovytb@gmail.com">📧 Email Me</a> | 
-  <a href="https://linkedin.com/in/alexmilenkov">🔗 LinkedIn</a>
+  <a href="https://www.linkedin.com/in/alex-milenkov-a4b8a2344/">🔗 LinkedIn</a>
 </p>
 <p align="center">⭐️ If you like my work, give my repos a star!</p>
 
