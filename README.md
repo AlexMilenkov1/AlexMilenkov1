@@ -35,3 +35,11 @@ When I'm not coding, you can find me lifting weights or exploring the latest tec
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexmilenkov1&show_icons=true&locale=en" alt="alexmilenkov1" /></p>
 
+<h3 align="center">Let's Connect!</h3>
+<p align="center">
+  <a href="mailto:milenkovytb@gmail.com">📧 Email Me</a> | 
+  <a href="https://linkedin.com/in/alexmilenkov">🔗 LinkedIn</a>
+</p>
+<p align="center">⭐️ If you like my work, give my repos a star!</p>
+
+
