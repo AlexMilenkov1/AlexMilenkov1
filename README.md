@@ -14,7 +14,7 @@ When I'm not coding, you can find me lifting weights or exploring the latest tec
 
 - 🌱 I’m currently learning **at SotfUni**
 
-- 💬 Ask me about **Python, HTML, CSS, POSTGRES, JAVASCRIPT, DJANGO, DOCKER**
+- 💬 Ask me about **Python, HTML, CSS, POSTGRES, JAVASCRIPT, DJANGO, DOCKER, GIT**
 
 - 📫 How to reach me **milenkovytb@gmail.com**
 
