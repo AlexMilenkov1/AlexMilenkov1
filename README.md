@@ -10,7 +10,7 @@ I'm an aspiring DevOps Engineer with a strong foundation in Python, cloud infras
 
 
 
-- 🌱 I’m currently learning **at SotfUni**
+- 🌱 I was learning **at SotfUni**
 
 - 💬 Ask me about **Python, HTML, CSS, POSTGRES, JAVASCRIPT, DJANGO, DOCKER, GIT, JENKINS**
 
