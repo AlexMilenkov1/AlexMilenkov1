@@ -2,9 +2,7 @@
 <h3 align="center">Python Zen: Embrace Simplicity, Efficiency, and Elegance in Your Code </h3>
 <hr>
 <p align="center">
-I'm a passionate Python developer currently honing my skills in web development and DevOps. 
-I love building efficient, scalable applications and always strive for clean and maintainable code. 
-When I'm not coding, you can find me lifting weights or exploring the latest tech trends!
+I'm an aspiring DevOps Engineer with a strong foundation in Python, cloud infrastructure, and automation. I enjoy building reliable systems, writing clean code, and learning how things work under the hood.
 </p>
 <hr>
 
